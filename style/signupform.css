@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+.signupform
+{
+	float:right;
+	width:600px;
+	height:auto;
+	margin-right:200px;
+	margin-bottom:20px;	
+}
+.signupform input
+{
+	width:200px;
+	height:20px;
+}
+.signupform select
+{
+	width:205px;
+	height:30px;
+}
+.signupform #checkbox
+{
+	float:left;
+	margin-left:-90px;
+	margin-top:25px;
+}
+.signupform h5
+{
+	float:left;
+	margin-left:-80px;
+	font-size:16px;
+	color:#669;
+	
+}
+.signupform input#submit
+{
+	width:80px;
+	height:30px;
+}
+.signupform input#reset
+{
+	width:80px;
+	height:30px;
+}
+.signupform p
+{
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	color:#669;
+	
+}
+.signupform td
+{
+	box-shadow:1px 2px 7px #9C6 inset;
+}

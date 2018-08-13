@@ -1,0 +1,25 @@
+<div class="client_content">
+<div class="whttrading">
+</br><br />
+<h1 align="center">Our Services</h1><br /><br />
+<h2 align="left">Forex Signal on Currency Pairs:</h2> 
+<p>Arrow Forex Signal is Providing quality service to its subscribers for their highest interest. Signal on major currency includes  EUR/USD, GBP/USD, USD/JPY, USD/CHF with entry price and exit signals in real time (1or 2/3 times daily).All the sigals of currency pairs are market execution. we provide siganl on specific time range on every business day. All alerts are sent to subscribers by e-mail.Our clients also take the signal from our website using their email and password. Our currency signals  have  three packages such as Trail, Standard and Premium. And it is also cost effective.</p>
+<p>Our  unique target is to serve better signals with satisfactory level of profit to the subscribers.We  try to give better signal and profit it’s clients. Up to +50 pips day’s performance on bad day. And around +90 pips on better day when market movement is favorable to us. It offers guaranteed of profit of 1500+ pips per month.</p>
+<p>The risk management system of globalforexsignal is unique. It always guides it’s clients to manage the risk level effectively and efficiently.</p>
+<p>So globalforexsignal signal is an outstanding signal and service provider for reliable signal services. And globalforexsignal obtains a remarkable market share in signal provider rivals.</p>
+<p>Arrow Forex Signal is serving about 200+ countries in the world with its goodwill. To visit site, Web address: http://www.globalforexsignal.com and customer support department contact: support@globalforexsignal.com</p></br>
+
+<h2 align="left">Commodity Plus Signal:</h2>
+<p>Global forex is unique and outstanding in providing Commodity plus signals.Our Commodity Plus signal are provided as pending order.( Pending order is set (placed) for the position opening. It represents a request for a currency pair purchase/sale as soon as the pair reaches a current (market) rate (the value, mentioned in the order.) It is more convenient and flexible for the traders. In this signal, We set a target and provide  Entry point, Trading Range, Exit point in advanced. It is more suitable for the traders who are busy  in their jobs or other business. Our Commodity Plus signal may include GOLD, OIL, SILVER, PLTINUM, along with other currency pairs.During the pending order live support is available so that traders may ask any question regarding their signals. The commodity pairs signal of global forex signal are provide by a group of experienced traders who observes commodity along with currency 24 hours and combing all the aspects of the market signals are provided. Over 90 % cases our tergets are hit. Depending on market movement we also send mail and update guideline for our resistered members in the website. In Commodity Plus Pairs Global Forex Signal has three package Trial, Standard, Premium.</p></br>
+
+<h2 align="left">Forex Forecast Service:</h2>
+<p>Forecast is a market prediction. It includes trading range and market mood. The  forecasts can give you an idea of the expected forex movements range, which for some of our customers is enough to decide when to enter and exit the market themselves. But if you are new to forex trading we would advise you to follow only our trading signals till you have a better feel of the forex market moves. What we do is trying to gain more profit and less loss in pips, but the trader must be able to do the money management, deciding when and how much to trade. When/if you become our customer, we will also give some more essential advises to help you achieve better results from your trading.</p>
+
+<p>Please note that daily/evening forecasts or analysis are not a trading signal. In the daily/evening forecasts we give expected sell/buy trading range for the next session, or till next forecast/update.
+And if the entry price in our forecast are away from the current one, that would mean that we expect the currency pair to move to that point and from there to start its major trend for the day/evening. And if it does not reach the price given, our advice is not to enter into position.</p>
+<p>Depending on the forex market you can make and loose a lot from a daily forecast if for example the market is volatile and active. The  forecasts can give you an idea of the expected forex movements range, which for some of our customers is enough to decide when to enter and exit the market themselves. But if you are new to forex trading we would advise you to follow only our trading signals (included in the Forecast Plus service) till you have a better feel of the forex market moves. What we do is trying to gain more profit and less loss in pips, but the trader must be able to do the money management, deciding when and how much to trade.</p>
+<p>Please note that the free daily forecast is available on time to our subscribers only.
+When/if you become our customer, we will also give some more essential advises to help you achieve better results from your trading.</p><br />
+
+</div>
+</div>

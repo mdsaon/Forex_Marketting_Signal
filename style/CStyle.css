@@ -1,0 +1,104 @@
+
+body
+{
+	margin:0px;
+	padding:0px;
+	background-color:#FFD300;
+	background-image:url(../images/texture_of_ice-background_for_websites.jpg);
+	
+}
+.center_layout
+{
+	width:1000px;;
+    margin:0px auto;
+	height:auto;
+
+
+}
+.header
+{
+	float:left;
+	height:150px;
+	width:1000px;
+	background-color:#036;
+	background-image:url(../images/banner.png);
+	
+}
+.menu
+{
+	float:left;
+	width:1000px;
+	height:44px;
+	background-color:#399;
+	
+	
+	
+}
+.menu ul
+{
+	float:left;
+	padding:0px;
+	margin:0px;
+	list-style:none;
+	z-index:999;
+}
+.menu ul li
+{
+	float:left;
+	padding:0px;
+	margin:0px;
+	display:inline;
+	font-size:10px;
+}
+.menu ul li a
+{
+	float:left;
+	width:68px;
+	height:15px;
+	text-align:center;
+	text-decoration:none;
+	font-family:"Times New Roman", Times, serif;
+	font-size:9px;
+	font-style:normal;
+	text-shadow:#036;
+	color:#303;
+
+}
+.marqueText
+{
+	float:left;
+	width:1000px;
+	height:26px;
+	background-color:#FFF;
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	color:#633;
+}
+.content
+{
+	float:left;
+	width:1000px;
+	height:auto;
+	background-color:#FFF;
+	
+
+	
+}
+.footer
+{
+	float:left;
+	background-color:#003;
+	width:1000px;
+	height:30px;
+	
+}
+
+.footerText
+{
+	float:left;
+	margin-left:300px;
+	padding-top:7px;
+	color:#CCC;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:12px;
+}
